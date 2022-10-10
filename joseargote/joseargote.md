@@ -15,3 +15,7 @@ Información Basica
 
 ## Ejercicios
 - [ejersicio](ejersicio.md)
+- [ejersicio](ejersiciodartpad.md)
+- [ejersicio](ejersicio3.md)
+- [ejersicio](ejersicio4.md)
+- [ejersicio](formulario.md)
